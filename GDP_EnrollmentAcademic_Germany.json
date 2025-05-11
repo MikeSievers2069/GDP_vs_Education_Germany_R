@@ -1,0 +1,24 @@
+{
+  "dataset_description": {
+    "title": "result",
+    "description": "This dataset contains sample data for portfolio project.",
+    "columns": [
+      {
+        "name": "Year",
+        "data_type": "integer",
+        "description": "Year of data on Germany"
+      },
+      {
+        "name": " Germany Primary education, pupils",
+        "data_type": "integer",
+        "description": "Enrollment number for year for Germany in Primary Education”
+      },
+      {
+        "name": " Germany GDP per capita (current US$)",
+        "data_type": "integer",
+        "description": "GDP per capita for year for Germany"
+     
+ }
+    ]
+  }
+}
